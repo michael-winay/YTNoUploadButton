@@ -1,6 +1,6 @@
 Package: com.cactusutils.ytnouploadbutton
 Name: YTNoUploadButton
-Version: 1.0
+Version: 0.0.1
 Architecture: iphoneos-arm
 Description: Remove the upload button from the YouTube app.
 Maintainer: Michael Winay
