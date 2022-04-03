@@ -1,2 +1,2 @@
 # YTNoShortsButton
-Remove the shorts button from the YouTube app.
+Remove the upload button from the YouTube app.
