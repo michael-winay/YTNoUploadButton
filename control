@@ -1,9 +1,9 @@
-Package: com.galacticdev.ytnoshortsbutton
-Name: YTNoShortsButton
+Package: com.cactusutils.ytnouploadbutton
+Name: YTNoUploadButton
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Remove the shorts button from the YouTube app.
-Maintainer: Galactic Dev
-Author: Galactic Dev
+Description: Remove the upload button from the YouTube app.
+Maintainer: Michael Winay
+Author: Michael Winay
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
