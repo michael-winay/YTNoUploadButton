@@ -13,3 +13,4 @@ obj
 packages
 *.xcworkspace
 # End of https://www.toptal.com/developers/gitignore/api/theos-tweak
+*.bak
