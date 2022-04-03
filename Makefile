@@ -7,7 +7,7 @@ INSTALL_TARGET_PROCESSES = YouTube
 
 include $(THEOS)/makefiles/common.mk
 
-TWEAK_NAME = YTNoShortsButton
+TWEAK_NAME = YTNoUploadButton
 
 YTNoShortsButton_FILES = Tweak.x
 YTNoShortsButton_CFLAGS = -fobjc-arc
